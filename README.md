@@ -1,2 +1,4 @@
-# teste-site
- Projeto de site em um curso de Git e Github
+# Estudos
+## SiteTeste/Git/GitHub/CSS3/HTML5
+---
+ Projeto de site em um curso de Git e Github do Curso em Vídeo
